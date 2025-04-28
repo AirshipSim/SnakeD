@@ -1,4 +1,4 @@
-# SnakeD ![D](https://github.com/AishipSim/SnakeD/actions/workflows/d.yml/badge.svg)
+# SnakeD [![D](https://github.com/AirshipSim/SnakeD/actions/workflows/d.yml/badge.svg)](https://github.com/AirshipSim/SnakeD/actions/workflows/d.yml)
 
 SnakeD is not "yet another snake game", it is a study project to show off D  
 contract programming (CP) capabilities. The goal is too verify if D contract  

@@ -1,0 +1,16 @@
+.dub
+*.selections.json
+docs.json
+__dummy.html
+docs/
+/snaked
+snaked.so
+snaked.dylib
+snaked.dll
+snaked.a
+snaked.lib
+snaked-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,12 @@
+{
+  "authors" : [
+    "AirshipSim"
+  ],
+  "copyright" : "Copyright © 2021, AirshipSim",
+  "description" : "A snake game to demo D contract programming",
+  "license" : "public domain",
+  "name" : "snaked",
+  "dependencies" :{
+    "arsd-official:terminal": "~>10.4.5"
+  }
+}
